@@ -8,7 +8,7 @@ Pandas is a Python package providing fast, flexible, and expressive data structu
 
 Pandas has significantly improved support for operations involving unsigned,or purely non-negative, integers. Previously, handling these integers would result in improper rounding or data-type casting, leading to incorrect results.
   
-### Pandas is well suited for many different kinds of data:
+#### Pandas is well suited for many different kinds of data:
 
 **Tabular data with heterogeneously-typed columns, as in an SQL table or Excel spreadsheet**
 
